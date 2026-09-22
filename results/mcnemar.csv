@@ -1,4 +1,4 @@
-Dataset,Pair,only 1st correct,only 2nd correct,p-value,significant (Bonferroni)
+Dataset,Pair,only 1st correct,only 2nd correct,p-value,significant
 SST-2,VADER vs TextBlob,105,103,0.9447431138936884,False
 SST-2,VADER vs DistilBERT,29,273,6.439496079626854e-51,True
 SST-2,TextBlob vs DistilBERT,32,278,4.150592139812945e-50,True
