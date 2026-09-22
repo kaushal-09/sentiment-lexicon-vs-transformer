@@ -1,0 +1,16 @@
+idx,model,error type,sentence,gold,VADER,TextBlob,DistilBERT
+298,VADER,negation,serving sara does n't serve up a whole lot of laughs . ,neg,pos,pos,neg
+154,VADER,misleading sentiment word,a solid examination of the male midlife crisis . ,pos,neg,pos,pos
+211,VADER,context / world knowledge,to say this was done better in wilder 's some like it hot is like saying the sun rises in the east . ,neg,pos,pos,neg
+818,VADER,sarcasm / irony,the only excitement comes when the credits finally roll and you get to leave the theater . ,neg,pos,pos,neg
+310,VADER,mixed sentiment,"if you can stomach the rough content , it 's worth checking out for the performances alone . ",pos,neg,pos,pos
+486,TextBlob,negation,the script is n't very good ; not even someone as gifted as hoffman ( the actor ) can make it work . ,neg,neg,pos,neg
+193,TextBlob,misleading sentiment word,"morton uses her face and her body language to bring us morvern 's soul , even though the character is almost completely deadpan . ",pos,pos,neg,pos
+89,TextBlob,mixed sentiment,"we know the plot 's a little crazy , but it held my interest from start to finish . ",pos,pos,neg,pos
+709,TextBlob,sarcasm / irony,i thought my own watch had stopped keeping time as i slogged my way through clockstoppers . ,neg,neg,pos,neg
+539,TextBlob,no sentiment words,do not see this film . ,neg,pos,pos,neg
+685,DistilBERT,negation,no screen fantasy-adventure in recent memory has the showmanship of clones ' last 45 minutes . ,pos,neg,pos,neg
+22,DistilBERT,context / world knowledge,holden caulfield did it better . ,neg,pos,pos,pos
+183,DistilBERT,sarcasm / irony,"the lower your expectations , the more you 'll enjoy it . ",neg,pos,pos,pos
+667,DistilBERT,mixed sentiment,"good film , but very glum . ",pos,neg,pos,neg
+519,DistilBERT,questionable gold label,moretti 's compelling anatomy of grief and the difficult process of adapting to loss . ,neg,neg,neg,pos

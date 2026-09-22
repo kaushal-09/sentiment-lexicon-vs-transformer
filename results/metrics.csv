@@ -1,0 +1,7 @@
+Dataset,Model,Accuracy,Precision,Recall,F1,Macro-F1
+SST-2,VADER,0.631,0.595,0.86,0.703,0.607
+SST-2,TextBlob,0.628,0.594,0.856,0.701,0.605
+SST-2,DistilBERT,0.911,0.898,0.93,0.914,0.91
+Tweets,VADER,0.704,0.563,0.933,0.703,0.704
+Tweets,TextBlob,0.56,0.457,0.936,0.614,0.551
+Tweets,DistilBERT,0.813,0.793,0.676,0.73,0.794

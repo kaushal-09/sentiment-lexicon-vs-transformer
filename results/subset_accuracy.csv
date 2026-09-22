@@ -1,0 +1,15 @@
+Dataset,subset,n,VADER,TextBlob,DistilBERT
+SST-2,all,872,0.631,0.628,0.911
+SST-2,with negation,200,0.54,0.47,0.86
+SST-2,without negation,672,0.658,0.676,0.926
+SST-2,with contrast word,141,0.553,0.596,0.872
+SST-2,without contrast word,731,0.646,0.635,0.918
+SST-2,VADER score = 0,141,0.39,0.468,0.901
+SST-2,TextBlob score = 0,129,0.543,0.388,0.853
+Tweets,all,6347,0.704,0.56,0.813
+Tweets,with negation,1317,0.595,0.434,0.833
+Tweets,without negation,5030,0.733,0.593,0.808
+Tweets,with contrast word,394,0.65,0.52,0.787
+Tweets,without contrast word,5953,0.708,0.563,0.815
+Tweets,VADER score = 0,1183,0.438,0.507,0.729
+Tweets,TextBlob score = 0,2306,0.638,0.329,0.782

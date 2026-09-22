@@ -1,0 +1,91 @@
+model,idx,error_type,sentence
+VADER,498,misleading sentiment word,"anchored by friel and williams 's exceptional performances , the film 's power lies in its complexity ."
+VADER,377,no sentiment words,nothing is sacred in this gut-buster .
+VADER,555,context / world knowledge,"... plot holes so large and obvious a marching band might as well be stomping through them in clown clothes , playing a college football fight song on untuned instruments ."
+VADER,26,context / world knowledge,"the action switches between past and present , but the material link is too tenuous to anchor the emotional connections that purport to span a 125-year divide ."
+VADER,278,no sentiment words,basically a static series of semi-improvised ( and semi-coherent ) raps between the stars .
+VADER,323,misleading sentiment word,a painfully funny ode to bad behavior .
+VADER,704,misleading sentiment word,a bloated gasbag thesis grotesquely impressed by its own gargantuan aura of self-importance ...
+VADER,456,misleading sentiment word,"sticky sweet sentimentality , clumsy plotting and a rosily myopic view of life in the wwii-era mississippi delta undermine this adaptation ."
+VADER,610,sarcasm / irony,like you could n't smell this turkey rotting from miles away .
+VADER,843,other,a wildly inconsistent emotional experience .
+VADER,554,misleading sentiment word,it treats women like idiots .
+VADER,249,misleading sentiment word,huston nails both the glad-handing and the choking sense of hollow despair .
+VADER,766,mixed sentiment,"while its careful pace and seemingly opaque story may not satisfy every moviegoer 's appetite , the film 's final scene is soaringly , transparently moving ."
+VADER,235,negation,"whether you like rap music or loathe it , you ca n't deny either the tragic loss of two young men in the prime of their talent or the power of this movie ."
+VADER,532,misleading sentiment word,"for anyone unfamiliar with pentacostal practices in general and theatrical phenomenon of hell houses in particular , it 's an eye-opener ."
+VADER,736,misleading sentiment word,american chai encourages rueful laughter at stereotypes only an indian-american would recognize .
+VADER,352,misleading sentiment word,"a swashbuckling tale of love , betrayal , revenge and above all , faith ."
+VADER,211,context / world knowledge,to say this was done better in wilder 's some like it hot is like saying the sun rises in the east .
+VADER,71,misleading sentiment word,"exquisitely nuanced in mood tics and dialogue , this chamber drama is superbly acted by the deeply appealing veteran bouquet and the chilling but quite human berling ."
+VADER,18,no sentiment words,... the movie is just a plain old monster .
+VADER,571,negation,"passable entertainment , but it 's the kind of motion picture that wo n't make much of a splash when it 's released , and will not be remembered long afterwards ."
+VADER,155,misleading sentiment word,a nightmare date with a half-formed wit done a great disservice by a lack of critical distance and a sad trust in liberal arts college bumper sticker platitudes .
+VADER,135,context / world knowledge,"pumpkin means to be an outrageous dark satire on fraternity life , but its ambitions far exceed the abilities of writer adam larson broder and his co-director , tony r. abrams , in their feature debut ."
+VADER,833,misleading sentiment word,"ultimately feels empty and unsatisfying , like swallowing a communion wafer without the wine ."
+VADER,814,misleading sentiment word,"this piece of channel 5 grade trash is , quite frankly , an insult to the intelligence of the true genre enthusiast ."
+VADER,310,mixed sentiment,"if you can stomach the rough content , it 's worth checking out for the performances alone ."
+VADER,158,misleading sentiment word,"by getting myself wrapped up in the visuals and eccentricities of many of the characters , i found myself confused when it came time to get to the heart of the movie ."
+VADER,208,no sentiment words,"and the lesson , in the end , is nothing new ."
+VADER,551,negation,nothing in waking up in reno ever inspired me to think of its inhabitants as anything more than markers in a screenplay .
+VADER,702,no sentiment words,"the reality of the new live-action pinocchio he directed , cowrote and starred in borders on the grotesque ."
+TextBlob,324,misleading sentiment word,"you 'll gasp appalled and laugh outraged and possibly , watching the spectacle of a promising young lad treading desperately in a nasty sea , shed an errant tear ."
+TextBlob,256,context / world knowledge,rarely has so much money delivered so little entertainment .
+TextBlob,344,misleading sentiment word,"there is a fabric of complex ideas here , and feelings that profoundly deepen them ."
+TextBlob,21,no sentiment words,the iditarod lasts for days - this just felt like it did .
+TextBlob,467,misleading sentiment word,"ramsay , as in ratcatcher , remains a filmmaker with an acid viewpoint and a real gift for teasing chilly poetry out of lives and settings that might otherwise seem drab and sordid ."
+TextBlob,305,misleading sentiment word,what was once original has been co-opted so frequently that it now seems pedestrian .
+TextBlob,574,misleading sentiment word,"a broad , melodramatic estrogen opera that 's pretty toxic in its own right ."
+TextBlob,521,misleading sentiment word,"comes off like a rejected abc afterschool special , freshened up by the dunce of a screenwriting 101 class ."
+TextBlob,699,questionable gold label,"... routine , harmless diversion and little else ."
+TextBlob,358,negation,( d ) oes n't bother being as cloying or preachy as equivalent evangelical christian movies -- maybe the filmmakers know that the likely audience will already be among the faithful .
+TextBlob,465,mixed sentiment,"shaky close-ups of turkey-on-rolls , stubbly chins , liver spots , red noses and the filmmakers new bobbed do draw easy chuckles but lead nowhere ."
+TextBlob,410,misleading sentiment word,what distinguishes time of favor from countless other thrillers is its underlying concern with the consequences of words and with the complicated emotions fueling terrorist acts .
+TextBlob,583,no sentiment words,it 's just filler .
+TextBlob,300,misleading sentiment word,"fun , flip and terribly hip bit of cinematic entertainment ."
+TextBlob,500,context / world knowledge,a sequel that 's much too big for its britches .
+TextBlob,819,negation,"the movie is dawn of the dead crossed with john carpenter 's ghosts of mars , with zombies not as ghoulish as the first and trains not as big as the second ."
+TextBlob,797,negation,"it 's not original , and , robbed of the element of surprise , it does n't have any huge laughs in its story of irresponsible cops who love to play pranks ."
+TextBlob,272,no sentiment words,it 's like watching a nightmare made flesh .
+TextBlob,59,misleading sentiment word,"it 's just disappointingly superficial -- a movie that has all the elements necessary to be a fascinating , involving character study , but never does more than scratch the surface ."
+TextBlob,14,negation,even horror fans will most likely not find what they 're seeking with trouble every day ; the movie lacks both thrills and humor .
+TextBlob,843,other,a wildly inconsistent emotional experience .
+TextBlob,712,no sentiment words,they should have called it gutterball .
+TextBlob,107,negation,what the director ca n't do is make either of val kilmer 's two personas interesting or worth caring about .
+TextBlob,182,negation,"i sympathize with the plight of these families , but the movie does n't do a very good job conveying the issue at hand ."
+TextBlob,211,context / world knowledge,to say this was done better in wilder 's some like it hot is like saying the sun rises in the east .
+TextBlob,395,no sentiment words,another in-your-face wallow in the lower depths made by people who have never sung those blues .
+TextBlob,546,mixed sentiment,"on the heels of the ring comes a similarly morose and humorless horror movie that , although flawed , is to be commended for its straight-ahead approach to creepiness ."
+TextBlob,173,negation,"determined to be fun , and bouncy , with energetic musicals , the humor did n't quite engage this adult ."
+TextBlob,140,no sentiment words,sacrifices the value of its wealth of archival foot-age with its less-than-objective stance .
+TextBlob,854,negation,"for all the writhing and wailing , tears , rage and opium overdoses , there 's no sense of actual passion being washed away in love 's dissolution ."
+DistilBERT,395,negation,another in-your-face wallow in the lower depths made by people who have never sung those blues .
+DistilBERT,22,context / world knowledge,holden caulfield did it better .
+DistilBERT,399,mixed sentiment,"if director michael dowse only superficially understands his characters , he does n't hold them in contempt ."
+DistilBERT,142,context / world knowledge,what better message than ` love thyself ' could young women of any size receive ?
+DistilBERT,123,mixed sentiment,turns potentially forgettable formula into something strangely diverting .
+DistilBERT,871,negation,"looking aristocratic , luminous yet careworn in jane hamilton 's exemplary costumes , rampling gives a performance that could not be improved upon . '"
+DistilBERT,356,sarcasm / irony,"jason x is positively anti-darwinian : nine sequels and 400 years later , the teens are none the wiser and jason still kills on auto-pilot ."
+DistilBERT,93,mixed sentiment,if steven soderbergh 's ` solaris ' is a failure it is a glorious failure .
+DistilBERT,579,context / world knowledge,"every dance becomes about seduction , where backstabbing and betrayals are celebrated , and sex is currency ."
+DistilBERT,736,misleading sentiment word,american chai encourages rueful laughter at stereotypes only an indian-american would recognize .
+DistilBERT,699,questionable gold label,"... routine , harmless diversion and little else ."
+DistilBERT,266,context / world knowledge,"a coda in every sense , the pinochet case splits time between a minute-by-minute account of the british court 's extradition chess game and the regime 's talking-head survivors ."
+DistilBERT,771,negation,"very special effects , brilliantly bold colors and heightened reality ca n't hide the giant achilles ' heel in `` stuart little 2 `` : there 's just no story , folks ."
+DistilBERT,656,questionable gold label,"so much facile technique , such cute ideas , so little movie ."
+DistilBERT,213,mixed sentiment,"this time mr. burns is trying something in the martin scorsese street-realist mode , but his self-regarding sentimentality trips him up again ."
+DistilBERT,501,mixed sentiment,"harrison 's flowers puts its heart in the right place , but its brains are in no particular place at all ."
+DistilBERT,358,negation,( d ) oes n't bother being as cloying or preachy as equivalent evangelical christian movies -- maybe the filmmakers know that the likely audience will already be among the faithful .
+DistilBERT,685,negation,no screen fantasy-adventure in recent memory has the showmanship of clones ' last 45 minutes .
+DistilBERT,121,context / world knowledge,it seems to me the film is about the art of ripping people off without ever letting them consciously know you have done so
+DistilBERT,95,questionable gold label,this riveting world war ii moral suspense story deals with the shadow side of american culture : racial prejudice in its ugly and diverse forms .
+DistilBERT,405,mixed sentiment,"outer-space buffs might love this film , but others will find its pleasures intermittent ."
+DistilBERT,449,context / world knowledge,oh come on .
+DistilBERT,741,context / world knowledge,but it still jingles in the pocket .
+DistilBERT,646,mixed sentiment,"the longer the movie goes , the worse it gets , but it 's actually pretty good in the first few minutes ."
+DistilBERT,464,mixed sentiment,intriguing documentary which is emotionally diluted by focusing on the story 's least interesting subject .
+DistilBERT,183,sarcasm / irony,"the lower your expectations , the more you 'll enjoy it ."
+DistilBERT,494,negation,"it showcases carvey 's talent for voices , but not nearly enough and not without taxing every drop of one 's patience to get to the good stuff ."
+DistilBERT,546,mixed sentiment,"on the heels of the ring comes a similarly morose and humorless horror movie that , although flawed , is to be commended for its straight-ahead approach to creepiness ."
+DistilBERT,604,mixed sentiment,vera 's technical prowess ends up selling his film short ; he smoothes over hard truths even as he uncovers them .
+DistilBERT,115,sarcasm / irony,sam mendes has become valedictorian at the school for soft landings and easy ways out .

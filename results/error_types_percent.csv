@@ -1,0 +1,9 @@
+error_type,VADER,TextBlob,DistilBERT
+no sentiment words,16.7,20.0,0.0
+questionable gold label,0.0,3.3,10.0
+sarcasm / irony,3.3,0.0,10.0
+negation,10.0,26.7,20.0
+mixed sentiment,6.7,6.7,33.3
+misleading sentiment word,46.7,30.0,3.3
+context / world knowledge,13.3,10.0,23.3
+other,3.3,3.3,0.0

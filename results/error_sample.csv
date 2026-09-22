@@ -1,0 +1,91 @@
+model,idx,sentence,label,vader_score,textblob_score,distilbert_pred,distilbert_conf
+VADER,498,"anchored by friel and williams 's exceptional performances , the film 's power lies in its complexity . ",1,-0.4215,0.6666666666666666,1,0.9998123049736023
+VADER,377,nothing is sacred in this gut-buster . ,0,0.0,0.0,0,0.9990690350532532
+VADER,555,"... plot holes so large and obvious a marching band might as well be stomping through them in clown clothes , playing a college football fight song on untuned instruments . ",0,0.0772,0.10714285714285714,0,0.9997122883796692
+VADER,26,"the action switches between past and present , but the material link is too tenuous to anchor the emotional connections that purport to span a 125-year divide . ",0,0.2263,-0.0375,0,0.9980615973472595
+VADER,278,basically a static series of semi-improvised ( and semi-coherent ) raps between the stars . ,0,0.0,0.5,0,0.9992324113845825
+VADER,323,a painfully funny ode to bad behavior . ,1,-0.6124,-0.22499999999999992,1,0.99700528383255
+VADER,704,a bloated gasbag thesis grotesquely impressed by its own gargantuan aura of self-importance ... ,0,0.4767,0.5166666666666667,1,0.8487033843994141
+VADER,456,"sticky sweet sentimentality , clumsy plotting and a rosily myopic view of life in the wwii-era mississippi delta undermine this adaptation . ",0,0.4588,0.024999999999999994,0,0.9953475594520569
+VADER,610,like you could n't smell this turkey rotting from miles away . ,0,0.3612,0.0,0,0.9893556237220764
+VADER,843,a wildly inconsistent emotional experience . ,0,0.1531,0.05,0,0.9980624318122864
+VADER,554,it treats women like idiots . ,0,0.3612,-0.8,0,0.9989352822303772
+VADER,249,huston nails both the glad-handing and the choking sense of hollow despair . ,1,-0.6486,-0.1,1,0.8497800230979919
+VADER,766,"while its careful pace and seemingly opaque story may not satisfy every moviegoer 's appetite , the film 's final scene is soaringly , transparently moving . ",1,-0.2216,-0.05,1,0.9992901086807251
+VADER,235,"whether you like rap music or loathe it , you ca n't deny either the tragic loss of two young men in the prime of their talent or the power of this movie . ",1,-0.2878,-0.325,1,0.9969412684440613
+VADER,532,"for anyone unfamiliar with pentacostal practices in general and theatrical phenomenon of hell houses in particular , it 's an eye-opener . ",1,-0.6808,0.07222222222222223,1,0.9987462759017944
+VADER,736,american chai encourages rueful laughter at stereotypes only an indian-american would recognize . ,0,0.7269,0.0,1,0.996390163898468
+VADER,352,"a swashbuckling tale of love , betrayal , revenge and above all , faith . ",1,-0.0516,0.25,1,0.9996774196624756
+VADER,211,to say this was done better in wilder 's some like it hot is like saying the sun rises in the east . ,0,0.7845,0.375,0,0.9854887127876282
+VADER,71,"exquisitely nuanced in mood tics and dialogue , this chamber drama is superbly acted by the deeply appealing veteran bouquet and the chilling but quite human berling . ",1,-0.0129,0.3333333333333333,1,0.9998536109924316
+VADER,18,... the movie is just a plain old monster . ,0,0.0,-0.057142857142857134,0,0.9992817044258118
+VADER,571,"passable entertainment , but it 's the kind of motion picture that wo n't make much of a splash when it 's released , and will not be remembered long afterwards . ",0,0.2263,0.25,0,0.9986740350723267
+VADER,155,a nightmare date with a half-formed wit done a great disservice by a lack of critical distance and a sad trust in liberal arts college bumper sticker platitudes . ,0,0.1779,0.02500000000000001,0,0.9992893934249878
+VADER,135,"pumpkin means to be an outrageous dark satire on fraternity life , but its ambitions far exceed the abilities of writer adam larson broder and his co-director , tony r. abrams , in their feature debut . ",0,0.128,-0.3499999999999999,1,0.9202570915222168
+VADER,833,"ultimately feels empty and unsatisfying , like swallowing a communion wafer without the wine . ",0,0.1779,-0.05,0,0.9996439218521118
+VADER,814,"this piece of channel 5 grade trash is , quite frankly , an insult to the intelligence of the true genre enthusiast . ",0,0.6249,0.35,0,0.9997583031654358
+VADER,310,"if you can stomach the rough content , it 's worth checking out for the performances alone . ",1,-0.0258,0.09999999999999999,1,0.99977046251297
+VADER,158,"by getting myself wrapped up in the visuals and eccentricities of many of the characters , i found myself confused when it came time to get to the heart of the movie . ",0,0.4404,0.04999999999999999,1,0.9935868978500366
+VADER,208,"and the lesson , in the end , is nothing new . ",0,0.0,0.13636363636363635,0,0.9997264742851257
+VADER,551,nothing in waking up in reno ever inspired me to think of its inhabitants as anything more than markers in a screenplay . ,0,0.4939,0.5,0,0.9992125034332275
+VADER,702,"the reality of the new live-action pinocchio he directed , cowrote and starred in borders on the grotesque . ",0,0.0,-0.20681818181818185,1,0.9856662154197693
+TextBlob,324,"you 'll gasp appalled and laugh outraged and possibly , watching the spectacle of a promising young lad treading desperately in a nasty sea , shed an errant tear . ",1,-0.7506,-0.29999999999999993,0,0.9496975541114807
+TextBlob,256,rarely has so much money delivered so little entertainment . ,0,0.4186,0.10416666666666667,0,0.9894986152648926
+TextBlob,344,"there is a fabric of complex ideas here , and feelings that profoundly deepen them . ",1,0.0,-0.10833333333333334,1,0.999556839466095
+TextBlob,21,the iditarod lasts for days - this just felt like it did . ,0,0.3612,0.0,0,0.9551857113838196
+TextBlob,467,"ramsay , as in ratcatcher , remains a filmmaker with an acid viewpoint and a real gift for teasing chilly poetry out of lives and settings that might otherwise seem drab and sordid . ",1,0.3818,-0.19999999999999998,1,0.9984164237976074
+TextBlob,305,what was once original has been co-opted so frequently that it now seems pedestrian . ,0,0.3182,0.2375,0,0.999085545539856
+TextBlob,574,"a broad , melodramatic estrogen opera that 's pretty toxic in its own right . ",0,0.4939,0.2995535714285714,0,0.9995643496513367
+TextBlob,521,"comes off like a rejected abc afterschool special , freshened up by the dunce of a screenwriting 101 class . ",0,0.2263,0.35714285714285715,0,0.999537467956543
+TextBlob,699,"... routine , harmless diversion and little else . ",1,0.25,-0.1875,0,0.9933887720108032
+TextBlob,358,( d ) oes n't bother being as cloying or preachy as equivalent evangelical christian movies -- maybe the filmmakers know that the likely audience will already be among the faithful . ,1,0.6041,-0.06666666666666667,0,0.9897913932800293
+TextBlob,465,"shaky close-ups of turkey-on-rolls , stubbly chins , liver spots , red noses and the filmmakers new bobbed do draw easy chuckles but lead nowhere . ",0,0.2617,0.0590909090909091,0,0.9952941536903381
+TextBlob,410,what distinguishes time of favor from countless other thrillers is its underlying concern with the consequences of words and with the complicated emotions fueling terrorist acts . ,1,-0.4404,-0.20833333333333334,1,0.9994850158691406
+TextBlob,583,it 's just filler . ,0,0.0,0.0,0,0.9968373775482178
+TextBlob,300,"fun , flip and terribly hip bit of cinematic entertainment . ",1,0.3612,-0.2333333333333333,1,0.9998618364334106
+TextBlob,500,a sequel that 's much too big for its britches . ,0,0.0,0.1,0,0.9996989965438843
+TextBlob,819,"the movie is dawn of the dead crossed with john carpenter 's ghosts of mars , with zombies not as ghoulish as the first and trains not as big as the second . ",0,-0.6486,0.012499999999999997,0,0.9872542023658752
+TextBlob,797,"it 's not original , and , robbed of the element of surprise , it does n't have any huge laughs in its story of irresponsible cops who love to play pranks . ",0,0.7249,0.23749999999999996,0,0.9997898936271667
+TextBlob,272,it 's like watching a nightmare made flesh . ,0,0.3612,0.0,0,0.9977481961250305
+TextBlob,59,"it 's just disappointingly superficial -- a movie that has all the elements necessary to be a fascinating , involving character study , but never does more than scratch the surface . ",0,0.0772,0.15,0,0.874324381351471
+TextBlob,14,even horror fans will most likely not find what they 're seeking with trouble every day ; the movie lacks both thrills and humor . ,0,-0.4215,0.09999999999999999,0,0.9997715353965759
+TextBlob,843,a wildly inconsistent emotional experience . ,0,0.1531,0.05,0,0.9980624318122864
+TextBlob,712,they should have called it gutterball . ,0,0.0,0.0,0,0.9987515211105347
+TextBlob,107,what the director ca n't do is make either of val kilmer 's two personas interesting or worth caring about . ,0,0.7783,0.4,1,0.9410338401794434
+TextBlob,182,"i sympathize with the plight of these families , but the movie does n't do a very good job conveying the issue at hand . ",0,0.8621,0.9099999999999999,0,0.9995177984237671
+TextBlob,211,to say this was done better in wilder 's some like it hot is like saying the sun rises in the east . ,0,0.7845,0.375,0,0.9854887127876282
+TextBlob,395,another in-your-face wallow in the lower depths made by people who have never sung those blues . ,0,-0.296,0.0,1,0.7810545563697815
+TextBlob,546,"on the heels of the ring comes a similarly morose and humorless horror movie that , although flawed , is to be commended for its straight-ahead approach to creepiness . ",1,-0.7351,-0.25,0,0.9648331999778748
+TextBlob,173,"determined to be fun , and bouncy , with energetic musicals , the humor did n't quite engage this adult . ",0,0.815,0.3,0,0.9996882677078247
+TextBlob,140,sacrifices the value of its wealth of archival foot-age with its less-than-objective stance . ,0,0.6808,0.0,0,0.9996292591094971
+TextBlob,854,"for all the writhing and wailing , tears , rage and opium overdoses , there 's no sense of actual passion being washed away in love 's dissolution . ",0,0.128,0.25,0,0.999376118183136
+DistilBERT,395,another in-your-face wallow in the lower depths made by people who have never sung those blues . ,0,-0.296,0.0,1,0.7810545563697815
+DistilBERT,22,holden caulfield did it better . ,0,0.4404,0.5,1,0.9907523393630981
+DistilBERT,399,"if director michael dowse only superficially understands his characters , he does n't hold them in contempt . ",0,-0.5859,0.0,1,0.9336622357368469
+DistilBERT,142,what better message than ` love thyself ' could young women of any size receive ? ,1,0.7964,0.3666666666666667,0,0.9917102456092834
+DistilBERT,123,turns potentially forgettable formula into something strangely diverting . ,1,-0.296,-0.275,0,0.9925455451011658
+DistilBERT,871,"looking aristocratic , luminous yet careworn in jane hamilton 's exemplary costumes , rampling gives a performance that could not be improved upon . ' ",1,-0.3724,0.0,0,0.7782054543495178
+DistilBERT,356,"jason x is positively anti-darwinian : nine sequels and 400 years later , the teens are none the wiser and jason still kills on auto-pilot . ",0,-0.2472,0.11363636363636363,1,0.9715963006019592
+DistilBERT,93,if steven soderbergh 's ` solaris ' is a failure it is a glorious failure . ,1,-0.34,-0.31666666666666665,0,0.9993919134140015
+DistilBERT,579,"every dance becomes about seduction , where backstabbing and betrayals are celebrated , and sex is currency . ",0,0.5719,0.35,1,0.9889905452728271
+DistilBERT,736,american chai encourages rueful laughter at stereotypes only an indian-american would recognize . ,0,0.7269,0.0,1,0.996390163898468
+DistilBERT,699,"... routine , harmless diversion and little else . ",1,0.25,-0.1875,0,0.9933887720108032
+DistilBERT,266,"a coda in every sense , the pinochet case splits time between a minute-by-minute account of the british court 's extradition chess game and the regime 's talking-head survivors . ",1,0.0,-0.2,0,0.9948379397392273
+DistilBERT,771,"very special effects , brilliantly bold colors and heightened reality ca n't hide the giant achilles ' heel in `` stuart little 2 `` : there 's just no story , folks . ",0,0.8364,0.15252976190476192,1,0.9910667538642883
+DistilBERT,656,"so much facile technique , such cute ideas , so little movie . ",1,0.4588,0.128125,0,0.9740116596221924
+DistilBERT,213,"this time mr. burns is trying something in the martin scorsese street-realist mode , but his self-regarding sentimentality trips him up again . ",0,0.4215,0.0,1,0.9758961200714111
+DistilBERT,501,"harrison 's flowers puts its heart in the right place , but its brains are in no particular place at all . ",1,-0.0516,0.10119047619047619,0,0.9938428401947021
+DistilBERT,358,( d ) oes n't bother being as cloying or preachy as equivalent evangelical christian movies -- maybe the filmmakers know that the likely audience will already be among the faithful . ,1,0.6041,-0.06666666666666667,0,0.9897913932800293
+DistilBERT,685,no screen fantasy-adventure in recent memory has the showmanship of clones ' last 45 minutes . ,1,-0.296,0.0,0,0.9987063407897949
+DistilBERT,121,it seems to me the film is about the art of ripping people off without ever letting them consciously know you have done so ,0,0.0,0.1,1,0.997744083404541
+DistilBERT,95,this riveting world war ii moral suspense story deals with the shadow side of american culture : racial prejudice in its ugly and diverse forms . ,0,-0.8885,-0.04999999999999999,1,0.9993116855621338
+DistilBERT,405,"outer-space buffs might love this film , but others will find its pleasures intermittent . ",0,0.7543,0.5,1,0.7707580327987671
+DistilBERT,449,oh come on . ,0,0.0,0.0,1,0.9850856065750122
+DistilBERT,741,but it still jingles in the pocket . ,1,0.0,0.0,0,0.9016797542572021
+DistilBERT,646,"the longer the movie goes , the worse it gets , but it 's actually pretty good in the first few minutes . ",0,0.7964,0.11999999999999997,1,0.9996240139007568
+DistilBERT,464,intriguing documentary which is emotionally diluted by focusing on the story 's least interesting subject . ,1,-0.3089,0.05555555555555556,0,0.9228361248970032
+DistilBERT,183,"the lower your expectations , the more you 'll enjoy it . ",0,0.3102,0.45,1,0.9996402263641357
+DistilBERT,494,"it showcases carvey 's talent for voices , but not nearly enough and not without taxing every drop of one 's patience to get to the good stuff . ",0,0.7888,0.35,1,0.9973713159561157
+DistilBERT,546,"on the heels of the ring comes a similarly morose and humorless horror movie that , although flawed , is to be commended for its straight-ahead approach to creepiness . ",1,-0.7351,-0.25,0,0.9648331999778748
+DistilBERT,604,vera 's technical prowess ends up selling his film short ; he smoothes over hard truths even as he uncovers them . ,0,0.34,-0.09722222222222222,1,0.9795752167701721
+DistilBERT,115,sam mendes has become valedictorian at the school for soft landings and easy ways out . ,0,0.4404,0.26666666666666666,1,0.9968371391296387
