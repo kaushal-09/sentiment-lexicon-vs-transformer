@@ -1,9 +1,9 @@
 idx,model,error_type,sentence,label,vader_pred,textblob_pred,distilbert_pred
 298,VADER,negation,serving sara does n't serve up a whole lot of laughs . ,0,1,1,0
 154,VADER,misleading sentiment word,a solid examination of the male midlife crisis . ,1,0,1,1
-211,VADER,context / world knowledge,to say this was done better in wilder 's some like it hot is like saying the sun rises in the east . ,0,1,1,0
+208,VADER,no sentiment found (score 0),"and the lesson , in the end , is nothing new . ",0,1,1,0
 818,VADER,sarcasm / irony,the only excitement comes when the credits finally roll and you get to leave the theater . ,0,1,1,0
-310,VADER,mixed sentiment,"if you can stomach the rough content , it 's worth checking out for the performances alone . ",1,0,1,1
+766,VADER,mixed sentiment,"while its careful pace and seemingly opaque story may not satisfy every moviegoer 's appetite , the film 's final scene is soaringly , transparently moving . ",1,0,0,1
 486,TextBlob,negation,the script is n't very good ; not even someone as gifted as hoffman ( the actor ) can make it work . ,0,0,1,0
 193,TextBlob,misleading sentiment word,"morton uses her face and her body language to bring us morvern 's soul , even though the character is almost completely deadpan . ",1,1,0,1
 89,TextBlob,mixed sentiment,"we know the plot 's a little crazy , but it held my interest from start to finish . ",1,1,0,1
